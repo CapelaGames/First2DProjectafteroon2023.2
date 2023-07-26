@@ -4,18 +4,38 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
+    Rigidbody2D playerRB;
+    bool isJumpInput = false;
+
+    private void Start()
+    {
+        playerRB = GetComponent<Rigidbody2D>();
+    }
 
     void Update()
     {
-
-        //Getting input from the keyboard
         if(Input.GetKeyDown(KeyCode.Space))
         {
-            Rigidbody2D playerRB = GetComponent<Rigidbody2D>();
-
+            isJumpInput = true;
+        }
+    }
+    private void FixedUpdate()
+    {
+        if (isJumpInput)
+        {
             playerRB.AddForce(Vector2.up * 200f);
+            isJumpInput = false;
         }
 
-        // Debug.Log(jumpInput);
+        if (Input.GetKey(KeyCode.D))
+        {
+            playerRB.AddForce(Vector2.right * 1000f * Time.deltaTime);
+        }
+        if (Input.GetKey(KeyCode.A))
+        {
+            playerRB.AddForce(Vector2.right * -1000f * Time.deltaTime);
+        }
     }
 }
+
+
