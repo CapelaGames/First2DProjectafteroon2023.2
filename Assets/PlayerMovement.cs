@@ -4,8 +4,9 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
-    Rigidbody2D _rigidbody;
-    bool isJumpInput = false;
+    private Rigidbody2D _rigidbody;
+    private bool _isJumpInput = false;
+    private bool _isGrounded = false;
 
     void Start()
     {
@@ -16,18 +17,18 @@ public class PlayerMovement : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Space))
         {
-            isJumpInput = true;
+            _isJumpInput = true;
         }
     }
 
     void FixedUpdate()
     {
         //Getting input from the keyboard
-        if(isJumpInput)
+        if (_isJumpInput && _isGrounded)                                                                                                               
         {
             _rigidbody.AddForce(Vector2.up * 200f);
-            isJumpInput = false;
         }
+        _isJumpInput = false;
 
         if (Input.GetKey(KeyCode.D))
         {
@@ -38,5 +39,15 @@ public class PlayerMovement : MonoBehaviour
         {
             _rigidbody.AddForce(Vector2.left * 600f * Time.deltaTime);
         }
+    }
+
+    private void OnCollisionStay2D(Collision2D collision)
+    {
+        _isGrounded = true;
+    }
+
+    private void OnCollisionExit2D(Collision2D collision)
+    {
+        _isGrounded = false;
     }
 }
