@@ -14,7 +14,7 @@ public class EnemyMovement : MonoBehaviour
     {
         if (isMovingRight)
         {
-            transform.position += new Vector3(speed, 0, 0) * Time.deltaTime;
+            transform.position += new Vector3(speed, 0) * Time.deltaTime;
         }
         else
         {

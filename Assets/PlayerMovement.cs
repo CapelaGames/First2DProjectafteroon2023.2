@@ -6,6 +6,7 @@ public class PlayerMovement : MonoBehaviour
 {
     Rigidbody2D playerRB;
     bool isJumpInput = false;
+    bool isGrounded = false;
 
     private void Start()
     {
@@ -21,11 +22,11 @@ public class PlayerMovement : MonoBehaviour
     }
     private void FixedUpdate()
     {
-        if (isJumpInput)
+        if (isJumpInput && isGrounded)
         {
             playerRB.AddForce(Vector2.up * 200f);
-            isJumpInput = false;
         }
+        isJumpInput = false;
 
         if (Input.GetKey(KeyCode.D))
         {
@@ -34,6 +35,21 @@ public class PlayerMovement : MonoBehaviour
         if (Input.GetKey(KeyCode.A))
         {
             playerRB.AddForce(Vector2.right * -1000f * Time.deltaTime);
+        }
+    }
+    private void OnCollisionStay2D(Collision2D collision)
+    {
+        if (collision.transform.tag == "Ground")
+        {
+            isGrounded = true;
+        }
+    }
+
+    private void OnCollisionExit2D(Collision2D collision)
+    {
+        if (collision.transform.tag == "Ground")
+        {
+            isGrounded = false;
         }
     }
 }
