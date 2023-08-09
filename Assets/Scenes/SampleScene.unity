@@ -1355,6 +1355,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 10
   isMovingRight: 1
+  leftBoundry: -5
+  rightBoundry: 5
 --- !u!61 &1617173154
 BoxCollider2D:
   m_ObjectHideFlags: 0
