@@ -12,7 +12,7 @@ public class PlayerManager : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        EnemyManager enemy = collision.transform.GetComponent<EnemyManager>();
+        EnemyManager enemy = collision.gameObject.GetComponent<EnemyManager>();
 
         if (enemy != null)
         {

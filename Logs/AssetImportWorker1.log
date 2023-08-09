@@ -1950,3 +1950,1066 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007469 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Temp\Andrew Capela\First2DProjectafteroon2023.2\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Temp\Andrew Capela\First2DProjectafteroon2023.2\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.047 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1048ms)
+		BeginReloadAssembly (149ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (30ms)
+		EndReloadAssembly (780ms)
+			LoadAssemblies (107ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (234ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (47ms)
+			SetupLoadedEditorAssemblies (337ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (20ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (74ms)
+				ProcessInitializeOnLoadAttributes (196ms)
+				ProcessInitializeOnLoadMethodAttributes (37ms)
+				AfterProcessingInitializeOnLoad (8ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.24 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3728 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 22 unused Assets / (24.6 KB). Loaded Objects now: 4317.
+Memory consumption went from 147.6 MB to 147.6 MB.
+Total: 2.831400 ms (FindLiveObjects: 0.370100 ms CreateObjectMapping: 0.102300 ms MarkObjects: 2.340900 ms  DeleteObjects: 0.016500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007830 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Temp\Andrew Capela\First2DProjectafteroon2023.2\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Temp\Andrew Capela\First2DProjectafteroon2023.2\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.143 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1144ms)
+		BeginReloadAssembly (159ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (9ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (34ms)
+		EndReloadAssembly (868ms)
+			LoadAssemblies (112ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (247ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (53ms)
+			SetupLoadedEditorAssemblies (387ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (23ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (86ms)
+				ProcessInitializeOnLoadAttributes (223ms)
+				ProcessInitializeOnLoadMethodAttributes (42ms)
+				AfterProcessingInitializeOnLoad (11ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 3.26 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3728 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 22 unused Assets / (24.6 KB). Loaded Objects now: 4320.
+Memory consumption went from 147.6 MB to 147.6 MB.
+Total: 3.110000 ms (FindLiveObjects: 0.418100 ms CreateObjectMapping: 0.127500 ms MarkObjects: 2.541800 ms  DeleteObjects: 0.021600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008382 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Temp\Andrew Capela\First2DProjectafteroon2023.2\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Temp\Andrew Capela\First2DProjectafteroon2023.2\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.012 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1012ms)
+		BeginReloadAssembly (142ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (30ms)
+		EndReloadAssembly (768ms)
+			LoadAssemblies (98ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (220ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (46ms)
+			SetupLoadedEditorAssemblies (340ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (21ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (78ms)
+				ProcessInitializeOnLoadAttributes (193ms)
+				ProcessInitializeOnLoadMethodAttributes (37ms)
+				AfterProcessingInitializeOnLoad (10ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.41 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3728 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 22 unused Assets / (24.6 KB). Loaded Objects now: 4323.
+Memory consumption went from 147.6 MB to 147.6 MB.
+Total: 2.798800 ms (FindLiveObjects: 0.363900 ms CreateObjectMapping: 0.102000 ms MarkObjects: 2.316100 ms  DeleteObjects: 0.015600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008553 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Temp\Andrew Capela\First2DProjectafteroon2023.2\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Temp\Andrew Capela\First2DProjectafteroon2023.2\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.060 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1061ms)
+		BeginReloadAssembly (138ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (30ms)
+		EndReloadAssembly (817ms)
+			LoadAssemblies (95ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (222ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (47ms)
+			SetupLoadedEditorAssemblies (388ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (20ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (94ms)
+				ProcessInitializeOnLoadAttributes (226ms)
+				ProcessInitializeOnLoadMethodAttributes (37ms)
+				AfterProcessingInitializeOnLoad (9ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.23 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3728 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 22 unused Assets / (24.6 KB). Loaded Objects now: 4326.
+Memory consumption went from 147.7 MB to 147.6 MB.
+Total: 2.711400 ms (FindLiveObjects: 0.370500 ms CreateObjectMapping: 0.097300 ms MarkObjects: 2.228500 ms  DeleteObjects: 0.014200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006957 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Temp\Andrew Capela\First2DProjectafteroon2023.2\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Temp\Andrew Capela\First2DProjectafteroon2023.2\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.171 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1171ms)
+		BeginReloadAssembly (160ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (10ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (35ms)
+		EndReloadAssembly (883ms)
+			LoadAssemblies (108ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (252ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (54ms)
+			SetupLoadedEditorAssemblies (396ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (24ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (86ms)
+				ProcessInitializeOnLoadAttributes (230ms)
+				ProcessInitializeOnLoadMethodAttributes (43ms)
+				AfterProcessingInitializeOnLoad (11ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 3.19 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3728 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 22 unused Assets / (24.6 KB). Loaded Objects now: 4329.
+Memory consumption went from 147.7 MB to 147.6 MB.
+Total: 3.467700 ms (FindLiveObjects: 0.451000 ms CreateObjectMapping: 0.181800 ms MarkObjects: 2.814200 ms  DeleteObjects: 0.019600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1542.751190 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/tiles_packed.png
+  artifactKey: Guid(cf60875325e104246aa8f92b812b8ff7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/tiles_packed.png using Guid(cf60875325e104246aa8f92b812b8ff7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94e696f5fe452387cf1b6dcb7a26f53a') in 0.111428 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006705 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Temp\Andrew Capela\First2DProjectafteroon2023.2\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Temp\Andrew Capela\First2DProjectafteroon2023.2\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 0.71 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.251 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1252ms)
+		BeginReloadAssembly (186ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (33ms)
+		EndReloadAssembly (942ms)
+			LoadAssemblies (144ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (390ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (45ms)
+			SetupLoadedEditorAssemblies (340ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (19ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (76ms)
+				ProcessInitializeOnLoadAttributes (194ms)
+				ProcessInitializeOnLoadMethodAttributes (38ms)
+				AfterProcessingInitializeOnLoad (11ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.76 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3728 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 22 unused Assets / (24.6 KB). Loaded Objects now: 4336.
+Memory consumption went from 147.7 MB to 147.7 MB.
+Total: 3.364600 ms (FindLiveObjects: 0.589300 ms CreateObjectMapping: 0.320600 ms MarkObjects: 2.435500 ms  DeleteObjects: 0.018000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008126 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Temp\Andrew Capela\First2DProjectafteroon2023.2\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Temp\Andrew Capela\First2DProjectafteroon2023.2\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.149 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1150ms)
+		BeginReloadAssembly (169ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (11ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (40ms)
+		EndReloadAssembly (869ms)
+			LoadAssemblies (112ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (244ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (53ms)
+			SetupLoadedEditorAssemblies (391ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (24ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (86ms)
+				ProcessInitializeOnLoadAttributes (225ms)
+				ProcessInitializeOnLoadMethodAttributes (44ms)
+				AfterProcessingInitializeOnLoad (10ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.85 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3728 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 22 unused Assets / (24.6 KB). Loaded Objects now: 4339.
+Memory consumption went from 147.7 MB to 147.7 MB.
+Total: 3.218500 ms (FindLiveObjects: 0.365600 ms CreateObjectMapping: 0.110300 ms MarkObjects: 2.720400 ms  DeleteObjects: 0.021400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006808 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Temp\Andrew Capela\First2DProjectafteroon2023.2\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Temp\Andrew Capela\First2DProjectafteroon2023.2\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.255 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1256ms)
+		BeginReloadAssembly (189ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (9ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (29ms)
+		EndReloadAssembly (944ms)
+			LoadAssemblies (145ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (387ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (45ms)
+			SetupLoadedEditorAssemblies (357ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (19ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (74ms)
+				ProcessInitializeOnLoadAttributes (207ms)
+				ProcessInitializeOnLoadMethodAttributes (44ms)
+				AfterProcessingInitializeOnLoad (11ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 3.18 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3728 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 22 unused Assets / (24.7 KB). Loaded Objects now: 4342.
+Memory consumption went from 147.7 MB to 147.7 MB.
+Total: 3.334000 ms (FindLiveObjects: 0.440500 ms CreateObjectMapping: 0.125500 ms MarkObjects: 2.745800 ms  DeleteObjects: 0.021100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009139 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Temp\Andrew Capela\First2DProjectafteroon2023.2\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Temp\Andrew Capela\First2DProjectafteroon2023.2\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.138 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1139ms)
+		BeginReloadAssembly (159ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (9ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (35ms)
+		EndReloadAssembly (863ms)
+			LoadAssemblies (112ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (250ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (52ms)
+			SetupLoadedEditorAssemblies (383ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (22ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (85ms)
+				ProcessInitializeOnLoadAttributes (223ms)
+				ProcessInitializeOnLoadMethodAttributes (42ms)
+				AfterProcessingInitializeOnLoad (8ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.81 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3728 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 22 unused Assets / (24.7 KB). Loaded Objects now: 4345.
+Memory consumption went from 147.7 MB to 147.7 MB.
+Total: 3.244500 ms (FindLiveObjects: 0.385200 ms CreateObjectMapping: 0.125900 ms MarkObjects: 2.711000 ms  DeleteObjects: 0.021400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 2316.080240 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_1.asset
+  artifactKey: Guid(5c2f8ffce265c0b418fe7aebb3242268) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_1.asset using Guid(5c2f8ffce265c0b418fe7aebb3242268) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bcebaccf9d76c870c07b1970479e60e') in 0.061697 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_105.asset
+  artifactKey: Guid(df7ab1bc09488944ea19271530a80e5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_105.asset using Guid(df7ab1bc09488944ea19271530a80e5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a35949dd4c49cf6b18a76ac0b0993ea') in 0.040687 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_115.asset
+  artifactKey: Guid(68d749243c89d3f44922f5db54df5b86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_115.asset using Guid(68d749243c89d3f44922f5db54df5b86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77ddd9146e1e90195a6cf227a43f929e') in 0.013895 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_90.asset
+  artifactKey: Guid(8c8f3a6de6349cc4a9dcb8a480c7d5a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_90.asset using Guid(8c8f3a6de6349cc4a9dcb8a480c7d5a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4913cd1c8ff52b11522646dbb9ddc605') in 0.011911 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_67.asset
+  artifactKey: Guid(5f03e20f7342706479fbc9a21e831c1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_67.asset using Guid(5f03e20f7342706479fbc9a21e831c1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a16675885520ad17a523fd4bb369e73b') in 0.010347 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_106.asset
+  artifactKey: Guid(f1c0ee9354716d94eb24328fce254be5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_106.asset using Guid(f1c0ee9354716d94eb24328fce254be5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e76de3ba765a5f1fba34652bd63fb86') in 0.012343 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_123.asset
+  artifactKey: Guid(9c0f99c7286ff3941b43e9588e291a29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_123.asset using Guid(9c0f99c7286ff3941b43e9588e291a29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bbed40782c4dc6d8005bb92d816e00b') in 0.016119 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_28.asset
+  artifactKey: Guid(a4e1b17e815c06e41b4d072037b5f8ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_28.asset using Guid(a4e1b17e815c06e41b4d072037b5f8ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dccfaac85d2437edddab09c3d5f08bd4') in 0.012454 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_76.asset
+  artifactKey: Guid(ec1b9a00795ea464181514ad0f6460c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_76.asset using Guid(ec1b9a00795ea464181514ad0f6460c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c6299190436eeb52039e91cf76d0767') in 0.014435 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_11.asset
+  artifactKey: Guid(9859ccc9a4134364994f5154f7915cfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_11.asset using Guid(9859ccc9a4134364994f5154f7915cfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05c34143e8892595dab9fdc56c4be5b3') in 0.012732 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_78.asset
+  artifactKey: Guid(509b0af3dc720c6478024b92a4bd20b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_78.asset using Guid(509b0af3dc720c6478024b92a4bd20b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '187bdba556b97d22ca2f95cce844ce92') in 0.014489 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_27.asset
+  artifactKey: Guid(9af2c734dc3a685489c51a2c23fbfbc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_27.asset using Guid(9af2c734dc3a685489c51a2c23fbfbc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3acfb22ad252c5c87f425647fc7b8b14') in 0.010717 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_3.asset
+  artifactKey: Guid(113a03d770714794796f5ca13663db69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_3.asset using Guid(113a03d770714794796f5ca13663db69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '199da8ee9f09ae7d9873b5924ab71f15') in 0.011902 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_15.asset
+  artifactKey: Guid(f9865b9c864501549bd9c360ad02b7e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_15.asset using Guid(f9865b9c864501549bd9c360ad02b7e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e7bfb3b91977064e0ed9aea654f6492') in 0.015184 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_82.asset
+  artifactKey: Guid(7afb22d2305e8334084cc5ee4cf25535) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_82.asset using Guid(7afb22d2305e8334084cc5ee4cf25535) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6267fdd6d43c4e0bac2afde1d8dbba87') in 0.017269 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_60.asset
+  artifactKey: Guid(8a16bdf68951a5a41a4bbc2e57682104) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_60.asset using Guid(8a16bdf68951a5a41a4bbc2e57682104) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f9dd4734234df686dff6103678920ad') in 0.010999 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_13.asset
+  artifactKey: Guid(ab196e5595ddac8449fc1faa0a0532c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_13.asset using Guid(ab196e5595ddac8449fc1faa0a0532c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2840f3be278750b46aee4ef5cdd7a5ae') in 0.014192 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_8.asset
+  artifactKey: Guid(c583dbe59d23ad44f983602b64b1c9bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_8.asset using Guid(c583dbe59d23ad44f983602b64b1c9bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58ce028537fb73d379808a69d1277afc') in 0.012116 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_83.asset
+  artifactKey: Guid(c9fc9cbcc5cd58a40926006ea95036df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_83.asset using Guid(c9fc9cbcc5cd58a40926006ea95036df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1de5010132e9aa848f10a9f4a22fbccd') in 0.014474 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_2.asset
+  artifactKey: Guid(203158a842dddbc42881105559c45800) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_2.asset using Guid(203158a842dddbc42881105559c45800) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '932a7544cae886a702a85aa2a5b0abdc') in 0.012668 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_9.asset
+  artifactKey: Guid(ae4089d291d43d04da3ebb01625b0869) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_9.asset using Guid(ae4089d291d43d04da3ebb01625b0869) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54c2a7742e7bc36dbaa22dfe3930e224') in 0.013817 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_101.asset
+  artifactKey: Guid(93e28bb6d4309d1459d0ef20d340e562) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_101.asset using Guid(93e28bb6d4309d1459d0ef20d340e562) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38e094f351a2045af2eca19224842a52') in 0.017281 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000069 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_116.asset
+  artifactKey: Guid(22c5e29b73055394b9543288ac9bc179) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_116.asset using Guid(22c5e29b73055394b9543288ac9bc179) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97dedb45ae28534377358b299546ea86') in 0.010747 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_70.asset
+  artifactKey: Guid(7b863740cce502e449becc853a1ccd88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_70.asset using Guid(7b863740cce502e449becc853a1ccd88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86a69a0b245a6090a5eebd5b41c6adf6') in 0.011039 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_109.asset
+  artifactKey: Guid(e774e07f5d70f934b9abdaec001583ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_109.asset using Guid(e774e07f5d70f934b9abdaec001583ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a111b96a19b5d005fa1b48a4d039997') in 0.010282 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_44.asset
+  artifactKey: Guid(d7d592ac1d5ec9846a85398912f8d87a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_44.asset using Guid(d7d592ac1d5ec9846a85398912f8d87a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d936450202549b00471be1b8deec8eb') in 0.011047 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_110.asset
+  artifactKey: Guid(b3e536103f276e9459b50c447da7470a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_110.asset using Guid(b3e536103f276e9459b50c447da7470a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14af367ec1477810a9e7d286c58155e3') in 0.011724 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_92.asset
+  artifactKey: Guid(381b11f8763289e4ea35227b6d006c37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_92.asset using Guid(381b11f8763289e4ea35227b6d006c37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbb33ca863c33e4845f095b185315cb4') in 0.014137 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_111.asset
+  artifactKey: Guid(9ae481a1cf6fca542969793e1171aab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_111.asset using Guid(9ae481a1cf6fca542969793e1171aab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f59a8a9f0d94e6e788be2d48cd2900b') in 0.011270 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_114.asset
+  artifactKey: Guid(33fea6a49e90b954faaa8b7e40991350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_114.asset using Guid(33fea6a49e90b954faaa8b7e40991350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6dfbbdaf200ac4111a8bf4acbb7eb69') in 0.012354 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_54.asset
+  artifactKey: Guid(c86d5e34c8fc7134b96a2f17552c4929) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_54.asset using Guid(c86d5e34c8fc7134b96a2f17552c4929) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b73c069afdc61d28241311bca7a862b2') in 0.011382 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_73.asset
+  artifactKey: Guid(aa3329c59870ff34eb49f81f8c1e39b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_73.asset using Guid(aa3329c59870ff34eb49f81f8c1e39b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e56a6aae22b577016fe75b115d22dd1') in 0.010773 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_47.asset
+  artifactKey: Guid(3e32a7b1aea12234f94b7227cc5d0e73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_47.asset using Guid(3e32a7b1aea12234f94b7227cc5d0e73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48b222771dab680e8451384e9b6c9d29') in 0.011309 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_29.asset
+  artifactKey: Guid(1c7bf132704fbe747ae3e0c8342f4a31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_29.asset using Guid(1c7bf132704fbe747ae3e0c8342f4a31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7eb4bc3b0ebb7f12549037c20f59942e') in 0.010605 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_108.asset
+  artifactKey: Guid(b4cab7cdc33a62d4498907c625eec501) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_108.asset using Guid(b4cab7cdc33a62d4498907c625eec501) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c277e80efc2dcbf79eabdc51e6f5b962') in 0.010568 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_126.asset
+  artifactKey: Guid(1b7b2e718aa2612479b02d78d05e5a36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_126.asset using Guid(1b7b2e718aa2612479b02d78d05e5a36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55e6c1da721957b02f28ed0250c04f97') in 0.011284 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_135.asset
+  artifactKey: Guid(34dc8201293e8514a8a3eff01d337a0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_135.asset using Guid(34dc8201293e8514a8a3eff01d337a0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44d5f2fbcc7444533becf5073b6ccbaa') in 0.010910 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_156.asset
+  artifactKey: Guid(04f913cff351f0042a9b9dede664f03e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_156.asset using Guid(04f913cff351f0042a9b9dede664f03e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '843cfef9531105167534065f0a8e95b9') in 0.012790 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_177.asset
+  artifactKey: Guid(ba6a790d9e770f3428de57d49072bd08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_177.asset using Guid(ba6a790d9e770f3428de57d49072bd08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da3f26d10ad3240ecff521f85d1944fa') in 0.010952 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_141.asset
+  artifactKey: Guid(95886fb3aa8830e409097d74bbf66ecc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_141.asset using Guid(95886fb3aa8830e409097d74bbf66ecc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40a666b0474c17d5f6a8d56190298cfd') in 0.011356 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_167.asset
+  artifactKey: Guid(168ed7ab87e5d6a4ea0af7e7b985bfc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_167.asset using Guid(168ed7ab87e5d6a4ea0af7e7b985bfc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92ca59f3a4a6b7cc704f8204ab5f7626') in 0.010782 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_149.asset
+  artifactKey: Guid(c364a9ad84768434bb4e9fa807825754) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_149.asset using Guid(c364a9ad84768434bb4e9fa807825754) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9b5c0138de43676f1a842b6edfcf451') in 0.011338 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_132.asset
+  artifactKey: Guid(f00dd644ae7273544aaaa3e6fc0649b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_132.asset using Guid(f00dd644ae7273544aaaa3e6fc0649b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0b614b38df84aa28d71a38ae36cbbaa') in 0.011455 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_142.asset
+  artifactKey: Guid(c7406d16384bf1f4a9d226723cdca977) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_142.asset using Guid(c7406d16384bf1f4a9d226723cdca977) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fb37d606bbeee40aedb52a06d4329e0') in 0.010796 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_163.asset
+  artifactKey: Guid(81d323802294c42468410f1c6c97b250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_163.asset using Guid(81d323802294c42468410f1c6c97b250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7143054618dc76a5087333112c03cce0') in 0.010746 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_134.asset
+  artifactKey: Guid(97221aef5ebd99247aa23ba83c9d3e6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_134.asset using Guid(97221aef5ebd99247aa23ba83c9d3e6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03ce1770ecc34c43b1803952b416803d') in 0.010962 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_176.asset
+  artifactKey: Guid(cc2e50b3028f1994eac92d203110e864) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_176.asset using Guid(cc2e50b3028f1994eac92d203110e864) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31f7dbddf695bf39180ffe7a0800047d') in 0.011654 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_157.asset
+  artifactKey: Guid(5843bf54e74ab4449a8cd2efea180d49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_157.asset using Guid(5843bf54e74ab4449a8cd2efea180d49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b87f86f9394686fdf937eba000813a5f') in 0.011868 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_165.asset
+  artifactKey: Guid(fcd93eb2b5c07e24f904b64792cab667) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_165.asset using Guid(fcd93eb2b5c07e24f904b64792cab667) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e4be7e0744fe1814cbefbb93db3c357') in 0.011434 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_139.asset
+  artifactKey: Guid(29f2a734392f0c845a4aeb3c9d00c0ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_139.asset using Guid(29f2a734392f0c845a4aeb3c9d00c0ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd220332227f9b7e4afc0182305a28501') in 0.011314 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_160.asset
+  artifactKey: Guid(e19672b7c16ac79428912ae5ce5e851c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_160.asset using Guid(e19672b7c16ac79428912ae5ce5e851c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed7470deaac540fd1d32a0bf9741f496') in 0.011460 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_174.asset
+  artifactKey: Guid(5f2a4d769e3fc4144827f6aec71bc867) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_174.asset using Guid(5f2a4d769e3fc4144827f6aec71bc867) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d7dc5c8356e869f71b04eedeff88cd2') in 0.011637 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_173.asset
+  artifactKey: Guid(2e77e4d9a1347b94da2d71d36337c45a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_173.asset using Guid(2e77e4d9a1347b94da2d71d36337c45a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b529413d12eaf976632afd937f102482') in 0.029947 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_170.asset
+  artifactKey: Guid(4643998628ee7184880212c8ad4fa11d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_170.asset using Guid(4643998628ee7184880212c8ad4fa11d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a146df0a82c3d113cf8065b18a6884ca') in 0.013741 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_146.asset
+  artifactKey: Guid(e486c8cd6a5a9f04f811cd28f2f0cbd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_146.asset using Guid(e486c8cd6a5a9f04f811cd28f2f0cbd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37a420338b758fae98ea3446b7005be1') in 0.017784 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_138.asset
+  artifactKey: Guid(b3a4cf022846fae49adc69fc2be84c07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_138.asset using Guid(b3a4cf022846fae49adc69fc2be84c07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fe8d582078fd925274f33fd6db1c260') in 0.013605 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_162.asset
+  artifactKey: Guid(78214d50db2e2bb45a957f9e1c1af365) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_162.asset using Guid(78214d50db2e2bb45a957f9e1c1af365) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '491ef0bf5a8be8df19fdd845b38e7733') in 0.012998 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_164.asset
+  artifactKey: Guid(58772436d4378ec4eb993b9306ed842f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_164.asset using Guid(58772436d4378ec4eb993b9306ed842f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '626ebef4b2bb421aeb9d26a3f4d9b175') in 0.012279 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_32.asset
+  artifactKey: Guid(507a1f58bcbd4754596625f4031f36b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_32.asset using Guid(507a1f58bcbd4754596625f4031f36b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c157c7963d846c50f432c1a70212d31') in 0.011125 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_179.asset
+  artifactKey: Guid(c32f1ab9f56521f48ad05bab87bdd14e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_179.asset using Guid(c32f1ab9f56521f48ad05bab87bdd14e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd64715228230c03043bd65a325198e80') in 0.010981 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_86.asset
+  artifactKey: Guid(fcc9a69977a5a554b827a0da51828d41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_86.asset using Guid(fcc9a69977a5a554b827a0da51828d41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b656d9cc4f5234139682cfb5b93d22b0') in 0.011081 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_112.asset
+  artifactKey: Guid(0a5224a74722a5741a2de83be771d94e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_112.asset using Guid(0a5224a74722a5741a2de83be771d94e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f587b863871473c2a2a87e7d4137d0b6') in 0.010499 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_33.asset
+  artifactKey: Guid(ed0db6679d157574199197c4b46c82d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_33.asset using Guid(ed0db6679d157574199197c4b46c82d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '272ff92264bf554df60fc076087e95c8') in 0.011586 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_131.asset
+  artifactKey: Guid(cc32473b72ce7564a9279ad6d187c8df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_131.asset using Guid(cc32473b72ce7564a9279ad6d187c8df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0b487a34a3a287c19b3929987c3fcbf') in 0.011239 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_122.asset
+  artifactKey: Guid(69ff204344640bb47a12ec7e5b5b9141) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_122.asset using Guid(69ff204344640bb47a12ec7e5b5b9141) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd7dcb9d98a1bfa7e75236bb18f5a7dc') in 0.029316 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_100.asset
+  artifactKey: Guid(dcd3386d6751f094b811014396fbb606) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_100.asset using Guid(dcd3386d6751f094b811014396fbb606) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9484752734a85e93b1e0c612dc586e9e') in 0.012307 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_39.asset
+  artifactKey: Guid(cf8d983c14a1ed140ac5288a1009a476) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_39.asset using Guid(cf8d983c14a1ed140ac5288a1009a476) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca6ce27a31b0acb2ed7ff727ce1229d6') in 0.011614 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000101 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_31.asset
+  artifactKey: Guid(582585d354a23bc40a6e79528f399b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_31.asset using Guid(582585d354a23bc40a6e79528f399b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8dd13f16605441d4321e82a09488fc8') in 0.011568 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_30.asset
+  artifactKey: Guid(6b7339be7e35f0f4485746bde1002edb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_30.asset using Guid(6b7339be7e35f0f4485746bde1002edb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0db0dd0492dc003d174df4e47ce98491') in 0.018041 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_119.asset
+  artifactKey: Guid(05cbe1222d884d84786e1c2392d90a6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_119.asset using Guid(05cbe1222d884d84786e1c2392d90a6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8824cf133c99c6524a5080e1466e04c') in 0.014561 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_143.asset
+  artifactKey: Guid(adb90b48556b79d469bf033b300a3183) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_143.asset using Guid(adb90b48556b79d469bf033b300a3183) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e21bb919f3a017694c823ff489b137c') in 0.021065 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_14.asset
+  artifactKey: Guid(db74e75ff9ef00f46987bb5ad580f14a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_14.asset using Guid(db74e75ff9ef00f46987bb5ad580f14a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcf4fa04d842d4398254a166762e3e17') in 0.010655 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_37.asset
+  artifactKey: Guid(5594a63ad945d1e4283efc4ae89b536f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_37.asset using Guid(5594a63ad945d1e4283efc4ae89b536f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e21b8e87ad0a354c47a833eb9fe0e272') in 0.010884 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_55.asset
+  artifactKey: Guid(b74c21167dff58f49983cb534da1c154) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_55.asset using Guid(b74c21167dff58f49983cb534da1c154) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5d33859d373b4309556e020766ed58d') in 0.018136 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_20.asset
+  artifactKey: Guid(1aa089ae9f10f594c87ad56e14c3b81e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_20.asset using Guid(1aa089ae9f10f594c87ad56e14c3b81e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a57e5b078ed3661192a6d4ccc365064e') in 0.010429 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_51.asset
+  artifactKey: Guid(11cb4108387a79f469750ebbf74df7fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_51.asset using Guid(11cb4108387a79f469750ebbf74df7fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8847c9af55fa2f18904d7fded310327') in 0.010771 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_23.asset
+  artifactKey: Guid(4522245aa33233840849e11f844dcc48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_23.asset using Guid(4522245aa33233840849e11f844dcc48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '843208363eb8426418991cb0c48a84fc') in 0.010384 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_69.asset
+  artifactKey: Guid(1af6a5c2470968f409b3dfc779a13057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_69.asset using Guid(1af6a5c2470968f409b3dfc779a13057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b9e3f386470df9d3d1fc75bef4893fe') in 0.010090 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_140.asset
+  artifactKey: Guid(0dbf91246f5b32742bb4428df2016acf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_140.asset using Guid(0dbf91246f5b32742bb4428df2016acf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcffaab45b88bdd2c7a9900045912d22') in 0.018376 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_46.asset
+  artifactKey: Guid(df4df35ed28aaea40afb126c6f5a280e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_46.asset using Guid(df4df35ed28aaea40afb126c6f5a280e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '082a95ab4d0680eaaf79c2fb422997b6') in 0.027801 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_74.asset
+  artifactKey: Guid(db50e61dca2815f45979323b741aa03b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_74.asset using Guid(db50e61dca2815f45979323b741aa03b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47330708543972fd344c34dd0e808e73') in 0.012374 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_89.asset
+  artifactKey: Guid(6fbf9b644b778ce458d9538f15099988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_89.asset using Guid(6fbf9b644b778ce458d9538f15099988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c94e381d55beef395e20af547d985ab7') in 0.015265 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_62.asset
+  artifactKey: Guid(c325b89953cdf2141a982967b736366e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_62.asset using Guid(c325b89953cdf2141a982967b736366e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10b5ba558d42a9ff33a706037d37bf59') in 0.012127 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_45.asset
+  artifactKey: Guid(2cf0b99310d220f4ca82b9f539a238ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_45.asset using Guid(2cf0b99310d220f4ca82b9f539a238ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a448578289820f6d363710f29f75ce0') in 0.011889 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_77.asset
+  artifactKey: Guid(2bdcf47da747c1740acb19ba0e7e6569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_77.asset using Guid(2bdcf47da747c1740acb19ba0e7e6569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ccaf6e3ae6919698976dc9b53a800f1') in 0.011654 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_72.asset
+  artifactKey: Guid(3ef6b9f62e6f8f24788851f3a99f2bdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_72.asset using Guid(3ef6b9f62e6f8f24788851f3a99f2bdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3360cd8ed131fc7e3020e1c763ad784a') in 0.012469 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_85.asset
+  artifactKey: Guid(942865415b78c3346a9f797e8d79971b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_85.asset using Guid(942865415b78c3346a9f797e8d79971b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '093484548fee36db99295aa6e1035cef') in 0.013747 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_48.asset
+  artifactKey: Guid(550d54a91b94a3940922300e94cf4184) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_48.asset using Guid(550d54a91b94a3940922300e94cf4184) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f1c1c063739ef5c9ea0f4ab296cc21b') in 0.012774 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_96.asset
+  artifactKey: Guid(ae7578bc77da4564e80ae33a766a8217) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_96.asset using Guid(ae7578bc77da4564e80ae33a766a8217) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '137de219ba0b1afc138e564ab0c8fa02') in 0.012953 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_79.asset
+  artifactKey: Guid(c8d260e320ed5e3469d355d3e3e28a9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_pixel-platformer/Tilemap/Tiles/tiles_packed_79.asset using Guid(c8d260e320ed5e3469d355d3e3e28a9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c0a0723962ee80b8ec139bc4494d6c0') in 0.011267 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
