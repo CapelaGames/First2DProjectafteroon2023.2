@@ -10,14 +10,17 @@ using UnityEngine;
 
 public class Health : MonoBehaviour
 {
-    public TMP_Text healthText;
+    public TMP_Text HealthText;
 
     private int _health = 100;
     private int _maxHealth = 100;
 
     public void DisplayHealth()
     {
-        healthText.text = "Health: " + _health;
+        if (HealthText != null)
+        {
+            HealthText.text = "Health: " + _health;
+        }
     }
 
     public void Damage(int damage)

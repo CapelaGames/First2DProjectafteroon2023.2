@@ -15,4 +15,13 @@ public class PlayerManager : MonoBehaviour
     {
         _health.Damage(20);
     }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        EnemyManager enemy = collision.transform.GetComponent<EnemyManager>();
+        if (enemy != null)
+        {
+            _health.Damage(enemy.Damage);
+        }
+    }
 }

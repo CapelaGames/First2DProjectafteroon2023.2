@@ -4,44 +4,48 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
-    Rigidbody2D playerRB;
-    bool isJumpInput = false;
-    bool isGrounded = false;
+    Rigidbody2D _playerRB;
+    SpriteRenderer _spriteRenderer;
+    bool _isJumpInput = false;
+    bool _isGrounded = false;
 
     private void Start()
     {
-        playerRB = GetComponent<Rigidbody2D>();
+        _playerRB = GetComponent<Rigidbody2D>();
+        _spriteRenderer = GetComponent<SpriteRenderer>();
     }
 
     void Update()
     {
         if(Input.GetKeyDown(KeyCode.Space))
         {
-            isJumpInput = true;
+            _isJumpInput = true;
         }
     }
     private void FixedUpdate()
     {
-        if (isJumpInput && isGrounded)
+        if (_isJumpInput && _isGrounded)
         {
-            playerRB.AddForce(Vector2.up * 200f);
+            _playerRB.AddForce(Vector2.up * 400f);
         }
-        isJumpInput = false;
+        _isJumpInput = false;
 
         if (Input.GetKey(KeyCode.D))
         {
-            playerRB.AddForce(Vector2.right * 1000f * Time.deltaTime);
+            _playerRB.AddForce(Vector2.right * 1000f * Time.deltaTime);
+            _spriteRenderer.flipX = true;
         }
         if (Input.GetKey(KeyCode.A))
         {
-            playerRB.AddForce(Vector2.right * -1000f * Time.deltaTime);
+            _playerRB.AddForce(Vector2.right * -1000f * Time.deltaTime);
+            _spriteRenderer.flipX = false;
         }
     }
     private void OnCollisionStay2D(Collision2D collision)
     {
         if (collision.transform.tag == "Ground")
         {
-            isGrounded = true;
+            _isGrounded = true;
         }
     }
 
@@ -49,7 +53,7 @@ public class PlayerMovement : MonoBehaviour
     {
         if (collision.transform.tag == "Ground")
         {
-            isGrounded = false;
+            _isGrounded = false;
         }
     }
 }
