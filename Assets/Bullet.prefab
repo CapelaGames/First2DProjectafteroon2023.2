@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 3379155965400975545}
   - component: {fileID: 3769990387261348458}
   - component: {fileID: -2692577601793031112}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Bullet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -74,7 +74,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 2
   m_Sprite: {fileID: -2413806693520163455, guid: a86470a33a6bf42c4b3595704624658b, type: 3}
   m_Color: {r: 0.052643314, g: 0.11968998, b: 0.8584906, a: 1}
   m_FlipX: 0
@@ -96,7 +96,7 @@ CircleCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -114,3 +114,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2bdcb703dd3c0e440bf0c5f4a1fe4c20, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Speed: 10
+  Damage: 50

@@ -12,10 +12,8 @@ public class EnemyMovement : MonoBehaviour
     public float speed = 10;
     public bool isMovingRight = true;
 
-    void Start()
-    {
-
-    }
+    public float leftBoundry;
+    public float rightBoundry;
     void Update()
     {
         if (isMovingRight)
@@ -27,11 +25,11 @@ public class EnemyMovement : MonoBehaviour
             transform.position -= new Vector3(speed, 0, 0) * Time.deltaTime;
         }
 
-        if(transform.position.x >= 10)
+        if(transform.position.x >= rightBoundry)
         {
             isMovingRight = false;
         }
-        if(transform.position.x <= -10)
+        if(transform.position.x <= leftBoundry)
         {
             isMovingRight = true;
         }
